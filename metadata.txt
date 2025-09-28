@@ -1,0 +1,8 @@
+Video Processing Results
+========================
+Source: https://www.youtube.com/watch?v=TK5xOWkdzMU
+Detected Language: en
+Transcription Duration: 452.6 seconds
+Word Count: 1069
+Summary Length: 100 words
+Processing Date: 2025-09-28 16:51:30

@@ -104,12 +104,12 @@ After running, you’ll find:
  Example
 
 text
-🎥 Video Processing Pipeline
-🔗 Enter URL or file path: https://www.youtube.com/watch?v=f_N3PGvnVKg
+ Video Processing Pipeline
+ Enter URL or file path: https://www.youtube.com/watch?v=f_N3PGvnVKg
 
-✅ Transcript saved to: output/transcript.txt
-✅ Summary saved to: output/summary.txt
-✨ Processing complete!
+ Transcript saved to: output/transcript.txt
+ Summary saved to: output/summary.txt
+ Processing complete!
 
 
  Contributing
